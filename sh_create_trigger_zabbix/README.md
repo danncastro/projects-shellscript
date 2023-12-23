@@ -1,0 +1,1 @@
+# iac_create_trigger_zabbix
